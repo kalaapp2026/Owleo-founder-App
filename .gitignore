@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+public/
+data.json
+data.json.tmp
+hosted/artifact.html
+.dev.vars
+.env
